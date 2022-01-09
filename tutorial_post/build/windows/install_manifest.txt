@@ -1,0 +1,10 @@
+C:/Users/Bruno/Projetos/GitHub Desktop Repositories/notion_integration/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/Bruno/Projetos/GitHub Desktop Repositories/notion_integration/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/Bruno/Projetos/GitHub Desktop Repositories/notion_integration/build/windows/runner/Debug/data/flutter_assets/.env
+C:/Users/Bruno/Projetos/GitHub Desktop Repositories/notion_integration/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/Bruno/Projetos/GitHub Desktop Repositories/notion_integration/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/Bruno/Projetos/GitHub Desktop Repositories/notion_integration/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/Bruno/Projetos/GitHub Desktop Repositories/notion_integration/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/Bruno/Projetos/GitHub Desktop Repositories/notion_integration/build/windows/runner/Debug/data/flutter_assets/NOTICES
+C:/Users/Bruno/Projetos/GitHub Desktop Repositories/notion_integration/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/Bruno/Projetos/GitHub Desktop Repositories/notion_integration/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf

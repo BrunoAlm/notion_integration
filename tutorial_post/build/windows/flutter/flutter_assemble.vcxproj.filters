@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Bruno\Projetos\GitHub Desktop Repositories\notion_integration\build\windows\CMakeFiles\05fda4522d78d5843640b56be55e4574\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Bruno\Projetos\GitHub Desktop Repositories\notion_integration\build\windows\CMakeFiles\9530d3c6af14b8cda0b7b0beac363653\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Bruno\Projetos\GitHub Desktop Repositories\notion_integration\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Bruno\Projetos\GitHub Desktop Repositories\notion_integration\build\windows\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7FD3A63B-A255-30C4-836E-789D97511AD9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,28 @@
+^C:\USERS\BRUNO\PROJETOS\GITHUB DESKTOP REPOSITORIES\NOTION_INTEGRATION\BUILD\WINDOWS\CMAKEFILES\05FDA4522D78D5843640B56BE55E4574\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\src\flutter "PROJECT_DIR=C:\Users\Bruno\Projetos\GitHub Desktop Repositories\notion_integration" FLUTTER_ROOT=C:\src\flutter "FLUTTER_EPHEMERAL_DIR=C:\Users\Bruno\Projetos\GitHub Desktop Repositories\notion_integration\windows\flutter\ephemeral" "PROJECT_DIR=C:\Users\Bruno\Projetos\GitHub Desktop Repositories\notion_integration" "FLUTTER_TARGET=C:\Users\Bruno\Projetos\GitHub Desktop Repositories\notion_integration\lib\main.dart" DART_DEFINES=Zmx1dHRlci5pbnNwZWN0b3Iuc3RydWN0dXJlZEVycm9ycz10cnVl,RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false "PACKAGE_CONFIG=C:\Users\Bruno\Projetos\GitHub Desktop Repositories\notion_integration\.dart_tool\package_config.json" C:/src/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\BRUNO\PROJETOS\GITHUB DESKTOP REPOSITORIES\NOTION_INTEGRATION\BUILD\WINDOWS\CMAKEFILES\9530D3C6AF14B8CDA0B7B0BEAC363653\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\BRUNO\PROJETOS\GITHUB DESKTOP REPOSITORIES\NOTION_INTEGRATION\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Bruno/Projetos/GitHub Desktop Repositories/notion_integration/windows" "-BC:/Users/Bruno/Projetos/GitHub Desktop Repositories/notion_integration/build/windows" --check-stamp-file "C:/Users/Bruno/Projetos/GitHub Desktop Repositories/notion_integration/build/windows/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

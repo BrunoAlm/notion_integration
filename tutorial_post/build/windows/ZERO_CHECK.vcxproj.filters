@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Bruno\Projetos\GitHub Desktop Repositories\notion_integration\build\windows\CMakeFiles\853807fa8a29d783a77a018f70159b47\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7FD3A63B-A255-30C4-836E-789D97511AD9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
